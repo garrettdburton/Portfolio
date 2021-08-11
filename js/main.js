@@ -193,7 +193,7 @@
                 autoplay:true,
                 nav:false,
                 dots:true,
-                autoplayTimeout:5000,
+                autoplayTimeout:15000,
                 autoplayHoverPause:true,
             });
         };
