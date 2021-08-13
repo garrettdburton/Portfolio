@@ -759,7 +759,7 @@ header {
     content: "";
     height: 100%;
     width: 0;
-    background-color: #12a;
+    background-color: red;
     top: 0;
     right: 0;
     transition: .3s;
