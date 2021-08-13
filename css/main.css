@@ -552,6 +552,7 @@ header {
     font-weight: 600;
     text-shadow: 0 0 15px #000;
     line-height: 1.5;
+    border-bottom: solid #007bff
 }
 
 .about_info p.about_desc {
@@ -564,15 +565,6 @@ header {
     font-weight: 600;
     font-size: 18px;
     color: #fff;
-}
-
-.zigzag {
-    margin: 25px 0;
-    transform: rotateX(-180deg);
-    -webkit-transform: rotateX(-180deg);
-    -moz-transform: rotateX(-180deg);
-    -ms-transform: rotateX(-180deg);
-    -o-transform: rotateX(-180deg);
 }
 
 /* ==========================================================================
