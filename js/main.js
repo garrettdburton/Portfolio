@@ -157,6 +157,15 @@
                 $(this).addClass('top').removeClass('bottom');
                 $('.about_img_2').addClass('bottom').removeClass('top');
             });
+            
+            $('.about_img_4.bottom').on('click', function () {
+                $(this).addClass('top').removeClass('bottom');
+                $('.about_img_3').addClass('bottom').removeClass('top');
+            });
+            $('.about_img_3').on('click', function () {
+                $(this).addClass('top').removeClass('bottom');
+                $('.about_img_4').addClass('bottom').removeClass('top');
+            });
         };
         aboutImg();
 
