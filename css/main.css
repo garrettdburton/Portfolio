@@ -430,6 +430,7 @@ header {
     color: #007bff;
 }
 
+/*
 .social_links li a:hover span {
     display: inline-block;
     transform: rotateY(720deg) rotateZ(-20deg);
@@ -443,6 +444,7 @@ header {
     -ms-transition: .3s;
     -o-transition: .3s;
 }
+*/
 
 /* SOCIAL LINKS STYLE end */
 
