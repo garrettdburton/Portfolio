@@ -202,7 +202,7 @@
                 autoplay:true,
                 nav:false,
                 dots:true,
-                autoplayTimeout:15000,
+                autoplayTimeout:5000,
                 autoplayHoverPause:true,
             });
         };
