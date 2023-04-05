@@ -232,8 +232,8 @@
 }
 
 .title-slide-in .char {
-  -webkit-animation: slide-in 1.75s cubic-bezier(0, 0.75, 0, 1) 0s both, will-change 2s linear;
-          animation: slide-in 1.75s cubic-bezier(0, 0.75, 0, 1) 0s both, will-change 2s linear;
+  -webkit-animation: slide-in 1.75s cubic-bezier(0, 0.75, 0, 1) 0s both, will-change 1s linear;
+          animation: slide-in 1.75s cubic-bezier(0, 0.75, 0, 1) 0s both, will-change 1s linear;
   -webkit-animation-delay: calc(1.3s * var(--char-percent));
           animation-delay: calc(1.3s * var(--char-percent));
   opacity: 1;
