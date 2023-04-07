@@ -77,7 +77,6 @@
     border: none;
     padding: 7px !important;
     font: inherit;
-    cursor: default;
 }
 .owl-carousel.owl-loading {
     opacity: 0;
